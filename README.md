@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ##
   
 
-  [![Minhas Habilidades](https://skillicons.dev/icons?i=java,js,ts,html,css,angular,nodejs,mongodb
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=git,nestjs,postman,jest,ts,nodejs,java,angular,mongodb
 )](https://skillicons.dev)
 
 
