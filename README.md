@@ -23,12 +23,7 @@ Here are some ideas to get you started:
 </div>
   
 ##
-  
 
   [![Minhas Habilidades](https://skillicons.dev/icons?i=postgresql,nestjs,postman,jest,ts,nodejs,angular,java
 )](https://skillicons.dev)
 
-
-##
-  
-![Snake animation](https://github.com/gabriel-q7/gabriel-q7/blob/output/github-contribution-grid-snake.svg)
