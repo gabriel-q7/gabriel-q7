@@ -11,9 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-
-
-
 -->
 
 <div align="center">
@@ -24,6 +21,6 @@ Here are some ideas to get you started:
   
 ##
 
-  [![Minhas Habilidades](https://skillicons.dev/icons?i=ts,nodejs,git,nestjs,postman,postgresql,angular,rxjs,linux,aws,jest,java
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=ts,nodejs,git,nestjs,nextjs,postman,postgresql,python,angular,rxjs,linux,aws,jest,java
 )](https://skillicons.dev)
 
