@@ -12,15 +12,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-
-<div align="center">
-  <a href="https://github.com/gabriel-q7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-q7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-q7&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
   
 ##
 
-  [![Minhas Habilidades](https://skillicons.dev/icons?i=ts,nodejs,git,nestjs,nextjs,postman,postgresql,python,angular,rxjs,linux,aws,jest,java
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=ts,nodejs,git,nestjs,nextjs,postman,postgresql,jest,python,mongodb,angular,linux,rxjs,aws,java
 )](https://skillicons.dev)
 
