@@ -1,20 +1,14 @@
 ### Bem-vindo! Welcome! Bienvenido! 👋
 
-<!--
-**gabriel-q7/gabriel-q7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with experience in software engineering since 2021, specializing in the TypeScript ecosystem, with a strong focus on backend development, databases, and web applications. Hands-on experience with NestJS, Next.js, Angular, PostgreSQL, microservices, messaging systems, Docker, and CI/CD, as well as working knowledge of Python and Java.
 
-Here are some ideas to get you started:
+Experienced throughout the software development lifecycle, from requirements discovery and technical refinement to implementation and continuous improvement, with a strong focus on code quality, security, performance, and process automation. I have professional experience developing solutions for the financial services industry, including transaction reconciliation systems, process automation, and database and query optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
+I am also continuously expanding my expertise in Artificial Intelligence, AI Engineering, and Cybersecurity, with hands-on exploration of LLM applications, RAG, embeddings, vector databases, and secure software development practices. I have a strong analytical mindset, work effectively with autonomy, and enjoy turning complex business requirements into scalable, maintainable, and reliable technical solutions.
+
   
 ##
 
-  [![Minhas Habilidades](https://skillicons.dev/icons?i=ts,nodejs,git,nestjs,nextjs,postman,postgresql,jest,python,mongodb,angular,linux,rxjs,aws,java
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=nestjs,nextjs,bash,postgresql,ts,docker,git,jest,python,mongodb,angular,java,linux,aws,postman
 )](https://skillicons.dev)
 
